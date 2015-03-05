@@ -10,6 +10,5 @@ return (c);
 }
 
 d= a/b;
-print d;
 
 a=b;
