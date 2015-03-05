@@ -8,3 +8,6 @@ function dividir (int a, int b){
 c = a/b;
 return (c);
 }
+
+d= a/b;
+print d;
