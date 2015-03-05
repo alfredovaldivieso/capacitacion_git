@@ -10,4 +10,4 @@ return (c);
 }
 
 d= a/b;
-print d;
+
